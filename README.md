@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NuggFrog&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuggFrog&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![NuggFrog's stats](https://github-readme-stats.vercel.app/api?username=NuggFrog&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NuggFrog/NuggFrog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
