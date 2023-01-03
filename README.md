@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NuggFrog
 - 👀 I’m interested in Cyber Security, Discord Bot Development, and Web Design
-- 🌱 I’m currently learning Node.js, HTML, CSS, Javascript, Discord.js, Java, and Kotlin
+- 🌱 I’m currently learning Node.js, Bash, HTML, CSS, Javascript, Discord.js, Java, and Kotlin
 - 💞️ I’m currently not looking to collaborate on other projects
 - 📫 If you need to reach me, you can send me a Discord DM at NuggFrog#3669
 - 👨‍💻 I am currently working on FrogBot and my own Website!
