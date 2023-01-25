@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NuggFrog](https://github.com/NuggFrog)
 
-- 📫 How to reach me **Discord @NuggFrog#7709**
+- 📫 How to reach me **Discord @NuggFrog#7777**
 
 - ⚡ Fun fact **Coding is Difficult**
 
