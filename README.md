@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nuggfrog" alt="nuggfrog" /></a> </p>
 
-- 🔭 I’m currently working on [a Discord Bot](https://github.com/NuggFrog/basicdiscordbotpublic)
+- 🔭 I’m currenty have no active projects!
 
-- 🌱 I’m currently learning **Node.js, Bash, HTML, CSS, Javascript, Discord.js, Java, and Kotlin**
+- 🌱 I’m currently learning **Node.js, Bash, HTML, CSS, Javascript, Discord.js, Python, Java, and Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NuggFrog](https://github.com/NuggFrog)
+- 👨‍💻 All of my projects are available at [https://github.com/NuggFrog](https://github.com/NuggFrog) or at my student development portfolio [https://github.com/NuggFrog-Development](https://github.com/NuggFrog-Development)
 
-- 📫 How to reach me **Discord @NuggFrog#7777**
+- 📫 How to reach me **Discord: @NuggFrog**
 
-- ⚡ Fun fact **Coding is Difficult**
+- ⚡ Fun fact **Every second you arn't running i'm only getting closer...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
