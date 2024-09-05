@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nuggfrog_spl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuggfrog_spl" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20053160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20053160" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nuggfrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuggfrog" height="30" width="40" /></a>
+<a href="https://twitter.com/itsaurelai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nuggfrog_spl" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20053160/itsaurelai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20053160" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/itsaurelai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nuggfrog" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nuggfrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nuggfrog" height="30" width="40" /></a>
 </p>
 
