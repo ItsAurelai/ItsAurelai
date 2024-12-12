@@ -19,7 +19,6 @@
 <a href="https://twitter.com/itsaurelai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsaurelai" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20053160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20053160" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/itsaurelai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsaurelai" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/elliott_rickert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elliott_rickert" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nuggfrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nuggfrog" height="30" width="40" /></a>
 </p>
 
