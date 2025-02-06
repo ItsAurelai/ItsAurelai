@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and next.js**
 
-- 👨‍💻 All of my projects are available on this github page!
+- 👨‍💻 All of my projects are available on this github page! Current: None
 
 - 📫 How to reach me **You can find me on discord @itsaurelai or on any of my socials linked below**
 
