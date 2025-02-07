@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available on this github page! Current: My AP CSA Class, no current personal projects.
 
-- 📫 How to reach me **You can find me on discord @itsaurelai or on any of my socials linked below**
+- 📫 How to reach me? **Find me on discord @itsaurelai or on any of my socials linked below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
