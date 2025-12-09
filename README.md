@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and next.js**
 
-- 👨‍💻 All of my projects are available on this github page! Current: My AP CSA Class, no current personal projects.
+- 👨‍💻 All of my projects are available on this github page! No current personal projects. Mostly contributing to plain text on [Funky Station](https://github.com/funky-station/funky-station)
 
 - 📫 How to reach me? **Find me on discord @itsaurelai or on any of my socials linked below**
 
